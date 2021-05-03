@@ -25,28 +25,28 @@ O projeto inclui:
 ## Comandos no desenvolvimento
 
 ### Instalar yarn
-npm install --global yarn
+- `npm install --global yarn`
 
 ### Criar projeto com nextjs
-yarn create next-app moveit-next
+- `yarn create next-app moveit-next`
 
 ### Criar projeto com nextjs
-yarn create next-app moveit-next
+- `yarn create next-app moveit-next`
 
 ### Instalar pacotes do typescript
-yarn add typescript @types/react @types/react-dom @types/node -D
+- `yarn add typescript @types/react @types/react-dom @types/node -D`
 
 ### Rodar sistema
-yarn dev
+- `yarn dev`
 
 ### Instalar js-cookie
-yarn add js-cookie
+- `yarn add js-cookie`
 
 ### Instalar tipagem do js-cookie
-yarn add @types/js-cookie -D
+- `yarn add @types/js-cookie -D`
 
 ### Comandos vercel
-npm i -g vercel
-vercel login [email]
-vercel
-vercel --prod
+- `npm i -g vercel`
+- `vercel login [email]`
+- `vercel`
+- `vercel --prod`
